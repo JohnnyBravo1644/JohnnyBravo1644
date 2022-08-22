@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**JohnnyBravo1644/JohnnyBravo1644** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá me chamo João Vitor Moraes!✌️
 
-Here are some ideas to get you started:
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-moraes-da-silva-524911207)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=yfnxm8kfpxqb&utm_content=2qg18ii)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![João Moraes GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyBravo1644&show_icons=true&theme=synthwave)
+
+### Tecnologias Usadas:
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](	https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+Acadêmico da área de Sistemas de Informação pelo Centro Universitário Barriga Verde UNIBAVE.
+
+### Email para Contato: joavitorjuv@outlook.com
