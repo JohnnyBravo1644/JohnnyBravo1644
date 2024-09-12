@@ -21,6 +21,6 @@
 ![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 
-Acadêmico da área de Sistemas de Informação pelo Centro Universitário Barriga Verde UNIBAVE.
+Bacharel com formação em Sistemas de Informação pelo Centro Universitário Barriga Verde UNIBAVE.
 
 ### Email para Contato: joavitorjuv@outlook.com
